@@ -47,4 +47,4 @@ Run the script as a cron job: see `/examples/cronjob/`.
 
 ## License
 
-Have fun.
+Have fun and Enjoy your Day
